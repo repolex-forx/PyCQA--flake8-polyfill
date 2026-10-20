@@ -1,0 +1,11 @@
+{
+  "org": "PyCQA",
+  "repo": "flake8-polyfill",
+  "versions": [
+    {
+      "commit": "b98e6f4f6cc90334f4d7040745aee91b4021cc42",
+      "tag": "",
+      "parsed_at": "2026-10-20T23:52:37.290091+00:00"
+    }
+  ]
+}
