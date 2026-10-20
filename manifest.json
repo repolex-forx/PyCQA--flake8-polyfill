@@ -1,0 +1,40 @@
+{
+  "manifest_version": "1.0",
+  "org": "PyCQA",
+  "repo": "flake8-polyfill",
+  "versions": [
+    {
+      "commit": "b98e6f4f6cc90334f4d7040745aee91b4021cc42",
+      "parsed_at": "2026-10-20T23:50:48.536953+00:00",
+      "filetree": "filetree/b98e6f4f6cc90334f4d7040745aee91b4021cc42.nq.gz",
+      "blobs": [
+        "blob/646f00148d1cacf5c0bc2269d05064c1b7b01d4c.nq.gz",
+        "blob/d32256f8414e13779595b6b94b8a6bedd99a0868.nq.gz",
+        "blob/529ecd514bb676965bcc3d035bc1d297fc5068d3.nq.gz",
+        "blob/aab1e01a738eb7f186a58f6a58890527b75f219a.nq.gz",
+        "blob/57ec501d4d07a765591f5f0784fdf71db806de1e.nq.gz",
+        "blob/6446078062c4579ddc5c735390d563a1d84bfbc2.nq.gz",
+        "blob/a7f020499608ef8ba0903151dea612ed13807508.nq.gz",
+        "blob/1e4f96abcdad30ce1a652e39a8ab6a2d4eb1e282.nq.gz",
+        "blob/4b8291e43a7be657e4a73b1e9c928c357f8e077f.nq.gz",
+        "blob/053148f848642cb6c79ecb61968f0a9d3fea8bb4.nq.gz",
+        "blob/429826f9e80c5a7ea1abcaaa0e84331f1f97ffa3.nq.gz",
+        "blob/ab7de3922c29436de130e7476890408aa3203e7e.nq.gz",
+        "blob/b265aa2cc39a52cd65d6eb5e2f41f83a60229ae6.nq.gz",
+        "blob/f778dd4eb8f4f0728e1b8bbaa165a4cccc23e450.nq.gz",
+        "blob/212b309f3bd1a4c33e64090f812344b3f2e20101.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/32c9e4ff18b209e04b85d3cc065c021ddcfb2701.nq.gz",
+        "blob/96b10e779d1665af2fced16e91e8466e631d5a16.nq.gz",
+        "blob/0c0cc53e53402740c0cfb72900f8f001cf7e51d9.nq.gz",
+        "blob/6ad1f190a25e4e7b7d6b3fc07e5ed7d1ef1ee72b.nq.gz",
+        "blob/c644e741ca6c3ae6cf0ebb9c839bf490a24071f1.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
